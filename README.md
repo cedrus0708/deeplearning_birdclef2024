@@ -18,6 +18,7 @@ Files in the repository:
       In this file, we explore the metadata downloaded from the Kaggle website that we reach through Google Drive. We take a look at some of the images of the spectograms in the dataset.
       We make decisions about what attributes to keep, and we split the metadata into training (70%), validation (20%) and test (10%) datasets.
       We also discuss our ideas about further progress later on: we plan to split the spectrograms into smaller chunks (10 seconds for example) and we will use that to train our model.
-        
+  - dl_milestone2.ipynb:
+      This is the file for Milestone 2. The notebook includes all neccessary code that should be run to train and evaluate the model.
 
 
