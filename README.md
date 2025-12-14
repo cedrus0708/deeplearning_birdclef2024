@@ -21,8 +21,8 @@ Files in the repository:
   - dl_milestone2.ipynb:
       This is the file for Milestone 2. The notebook includes all neccessary code that should be run to train and evaluate the model.
   - dl_final_main.ipynb:
-      This is the file of the final submission of our task. The whole process of data downloading, data preprocessing, model creation, training, validation and testing are in this notebook. The notebook is well-commented, helping understand the process of transforming data and training the model. The entire process of loading the data and training the modell can be recreated by running the notebook, but it's worth being aware that this is time and resource-intensive task, so we recommend running it on a GPU with at least the capacity of a T4. 
+      This is the file of the final submission of our task. The whole process of data downloading, data preprocessing, model creation, training, validation and testing are in this notebook. The notebook is well-commented, helping understand the process of transforming data and training the model. The entire process of loading the data and training the modell can be recreated by running the notebook, but it's worth being aware that this is time and resource-intensive task, so we recommend running it on a GPU with at least the capacity of a T4. The notebook was made in Google Colab, we recommend running it in that environment.
   - dl_final_demo.ipynb:
-      The purpose of this notebook is to give an alternative to the main final notebook that can be run using less time and resources. We demonstrate how our data loading and model training works with 5 classes only, to give a proper insight into the structure but also remain time-efficient. 
+      The purpose of this notebook is to give an alternative to the main final notebook that can be run using less time and resources. We demonstrate how our data loading and model training works with 5 classes only, to give a proper insight into the structure but also remain time-efficient. The notebook was made in Google Colab, we recommend running it in that environment.
 
 
