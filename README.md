@@ -10,6 +10,8 @@ Team members:
   
   - Szabó Tamás János DN5FXS
 
+***We would like to submit our work for a proposed grade.***
+
 Task: BirdCLEF 2024 
 (https://www.kaggle.com/competitions/birdclef-2024/overview)
 
